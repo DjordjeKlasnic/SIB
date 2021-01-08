@@ -1,0 +1,6 @@
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\bin\Debug\Manager.dll
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\bin\Debug\Manager.pdb
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\obj\Debug\Manager.dll
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\obj\Debug\Manager.pdb
+C:\Fax\E3-25-2014-SigurnostIBezbednost1\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
